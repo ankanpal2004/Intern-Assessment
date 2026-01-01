@@ -1,4 +1,4 @@
-# Weekend Getaway Ranker
+# Project - Weekend Getaway Ranker
 Weekend Getaway Ranker is a Python-based data engineering project that recommends
 the best weekend travel destinations based on distance, rating, and popularity.
 
