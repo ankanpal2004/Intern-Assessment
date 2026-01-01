@@ -4,7 +4,6 @@ the best weekend travel destinations based on distance, rating, and popularity.
 
 ## Tech Stack
 - Python
-- Pandas
 
 ## How It Works
 - Takes a source city as input
